@@ -1,4 +1,4 @@
-Connect 4 Game
+
 This is a simple text-based implementation of the classic Connect 4 game written in C++. Players take turns dropping colored discs into a grid, aiming to connect four of their discs vertically, horizontally, or diagonally before their opponent does.
 
 Features
