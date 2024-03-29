@@ -21,7 +21,6 @@ Draw: If no player achieves a winning condition after 21 moves, the game ends in
 
 Example Gameplay:
 
-Welcome To Connect4 !!
 ![image](https://github.com/prosperxo/Connect-Four-in-C-/assets/140454605/b6c72c2b-7cb3-48f6-bdd9-027a39fc8d48)
 
 
