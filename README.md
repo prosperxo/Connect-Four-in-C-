@@ -25,7 +25,9 @@ Example Gameplay:
 
 
 
+
+
+
 ...
-License
-This project is licensed under the MIT License.
+Future implementation: Play against an AI opponent using minimax algorithm to make strategic moves 
 
