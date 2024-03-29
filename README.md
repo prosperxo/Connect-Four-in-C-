@@ -22,30 +22,10 @@ Draw: If no player achieves a winning condition after 21 moves, the game ends in
 Example Gameplay:
 
 Welcome To Connect4 !!
-1|2|3|4|5|6|7|
-,|,|,|,|,|,|,|
-,|,|,|,|,|,|,|
-,|,|,,|,|,|,|
-,|,|,|,|,|,,|
-,|,|,|,|,|,|,|
-Player1
-Enter column: 4
-1|2|3|4|5|6|7|
-,|,|,|,|,|,|,|
-,|,|,|,|,|,|,|
-,|,|,|,|,|,|,|
-,|,|,|,|,|,|,|
-,|,|,|,|,|,|,|
-,|,|,|X|,|,|,|
-Player2
-Enter column: 3
-1|2|3|4|5|6|7|
-,|,|,|,|,|,|,|
-,|,|,|,|,|,|,|
-,|,|,|,|,|,|,|
-,|,|,|,|,|,|,|
-,|,|,|O|,|,|,|
-,|,|,|X|,|,|,|
+![image](https://github.com/prosperxo/Connect-Four-in-C-/assets/140454605/b6c72c2b-7cb3-48f6-bdd9-027a39fc8d48)
+
+
+
 ...
 License
 This project is licensed under the MIT License.
