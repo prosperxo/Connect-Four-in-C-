@@ -17,9 +17,10 @@ Winning: The game ends when one player successfully connects four of their piece
 
 Draw: If no player achieves a winning condition after 21 moves, the game ends in a draw.
 
-Example Gameplay
-mathematica
-Copy code
+
+
+Example Gameplay:
+
 Welcome To Connect4 !!
 1|2|3|4|5|6|7|
 ,|,|,|,|,|,|,|
